@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'TaskLoad.apps.TaskloadConfig',
+    'django_bootstrap5',
 ]
 
 MIDDLEWARE = [

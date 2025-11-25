@@ -4,14 +4,14 @@ Aplicación realizada para gestionar, documentar y controlar tareas pendientes, 
 
 ## Tecnologías utilizadas
 
-Python
-Django
-Postgres
-Warp
-Git
-GitHub
-Visual Studio Code
-Kubuntu 24.04 LTS
+* Python
+* Django
+* Django-bootstrap5
+* Postgres
+* Konsole - Warp
+* Git - GitHub
+* Visual Studio Code
+* Kubuntu 24.04 LTS
 
 ## Requerimientos
 
@@ -35,3 +35,7 @@ Kubuntu 24.04 LTS
 - Interfaz con Bootstrap
 - Filtros de estado
 - Exportar tareas
+
+### Recursos y documentación
+
+https://getbootstrap.com/   
